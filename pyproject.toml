@@ -18,8 +18,10 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
     "Typing :: Typed",
 ]
-dependencies = []
-description = "funcproj"
+dependencies = [
+    "setdoc",
+]
+description = "This project provides projection functions."
 keywords = []
 name = "funcproj"
 readme = "README.rst"
@@ -33,3 +35,4 @@ file = "LICENSE.txt"
 Download = "https://pypi.org/project/funcproj/#files"
 Index = "https://pypi.org/project/funcproj/"
 Source = "https://github.com/johannes-programming/funcproj/"
+Website = "https://funcproj.johannes-programming.online/"
